@@ -1,0 +1,5 @@
+{
+  "matchingFields": ["InvoiceId"],
+  "caseSensitive": false,
+  "trim": true
+}

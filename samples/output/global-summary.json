@@ -1,0 +1,26 @@
+{
+  "StartTime": "2026-01-16T01:42:50.711474+01:00",
+  "EndTime": "2026-01-16T01:42:50.7909574+01:00",
+  "TotalProcessingTime": "00:00:00.0794834",
+  "TotalFilePairs": 1,
+  "TotalRecordsInA": 5,
+  "TotalRecordsInB": 5,
+  "TotalMatched": 3,
+  "TotalOnlyInA": 2,
+  "TotalOnlyInB": 2,
+  "TotalErrors": 0,
+  "FilePairSummaries": [
+    {
+      "FileA": "C:\\LorikProject\\CSVReconciliation\\samples\\FolderA\\invoices.csv",
+      "FileB": "C:\\LorikProject\\CSVReconciliation\\samples\\FolderB\\invoices.csv",
+      "TotalInA": 5,
+      "TotalInB": 5,
+      "Matched": 3,
+      "OnlyInA": 2,
+      "OnlyInB": 2,
+      "Errors": 0,
+      "ProcessingTimeMs": 23.7702
+    }
+  ],
+  "MissingFiles": []
+}
