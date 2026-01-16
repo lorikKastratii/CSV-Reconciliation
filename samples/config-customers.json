@@ -1,0 +1,5 @@
+{
+  "matchingFields": ["CustomerId"],
+  "caseSensitive": true,
+  "trim": true
+}

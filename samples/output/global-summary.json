@@ -1,11 +1,11 @@
 {
-  "StartTime": "2026-01-16T01:42:50.711474+01:00",
-  "EndTime": "2026-01-16T01:42:50.7909574+01:00",
-  "TotalProcessingTime": "00:00:00.0794834",
-  "TotalFilePairs": 1,
-  "TotalRecordsInA": 5,
-  "TotalRecordsInB": 5,
-  "TotalMatched": 3,
+  "StartTime": "2026-01-16T02:09:10.3967479+01:00",
+  "EndTime": "2026-01-16T02:09:10.4747521+01:00",
+  "TotalProcessingTime": "00:00:00.0780042",
+  "TotalFilePairs": 3,
+  "TotalRecordsInA": 13,
+  "TotalRecordsInB": 13,
+  "TotalMatched": 11,
   "TotalOnlyInA": 2,
   "TotalOnlyInB": 2,
   "TotalErrors": 0,
@@ -19,7 +19,29 @@
       "OnlyInA": 2,
       "OnlyInB": 2,
       "Errors": 0,
-      "ProcessingTimeMs": 23.7702
+      "ProcessingTimeMs": 9.1983
+    },
+    {
+      "FileA": "C:\\LorikProject\\CSVReconciliation\\samples\\FolderA\\customers.csv",
+      "FileB": "C:\\LorikProject\\CSVReconciliation\\samples\\FolderB\\customers.csv",
+      "TotalInA": 3,
+      "TotalInB": 3,
+      "Matched": 3,
+      "OnlyInA": 0,
+      "OnlyInB": 0,
+      "Errors": 0,
+      "ProcessingTimeMs": 2.1783
+    },
+    {
+      "FileA": "C:\\LorikProject\\CSVReconciliation\\samples\\FolderA\\products.csv",
+      "FileB": "C:\\LorikProject\\CSVReconciliation\\samples\\FolderB\\products.csv",
+      "TotalInA": 5,
+      "TotalInB": 5,
+      "Matched": 5,
+      "OnlyInA": 0,
+      "OnlyInB": 0,
+      "Errors": 0,
+      "ProcessingTimeMs": 2.1814
     }
   ],
   "MissingFiles": []
