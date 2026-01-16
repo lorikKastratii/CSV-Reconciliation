@@ -1,0 +1,3 @@
+InvoiceId,Customer,Amount,Date
+INV006,Foxtrot SA,4100.00,2025-01-06
+INV007,Golf Inc,950.75,2025-01-07

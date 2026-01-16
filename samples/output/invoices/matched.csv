@@ -1,0 +1,4 @@
+InvoiceId,Customer,Amount,Date
+INV001,Acme Corp,1500.00,2025-01-01
+INV002,Beta Inc,2300.50,2025-01-02
+INV003,Gamma Ltd,890.00,2025-01-03

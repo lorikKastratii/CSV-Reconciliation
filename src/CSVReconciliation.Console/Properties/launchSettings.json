@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSVReconciliation.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "C:/LorikProject/CSVReconciliation/samples/FolderA C:/LorikProject/CSVReconciliation/samples/FolderB C:/LorikProject/CSVReconciliation/samples/config-invoice.json --output=C:/LorikProject/CSVReconciliation/samples/output"
+    }
+  }
+}
