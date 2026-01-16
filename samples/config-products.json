@@ -1,0 +1,5 @@
+{
+  "matchingFields": ["ProductId", "ProductName"],
+  "caseSensitive": false,
+  "trim": true
+}

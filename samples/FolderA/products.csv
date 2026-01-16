@@ -1,0 +1,6 @@
+ProductId,ProductName,Price,Stock
+P001,Laptop,999.99,50
+P002,Mouse,25.50,200
+P003,Keyboard,75.00,150
+P004,Monitor,350.00,80
+P005,Headphones,125.00,100

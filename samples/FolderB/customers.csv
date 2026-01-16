@@ -1,0 +1,4 @@
+CustomerId,Name,Email,Country
+C001,John Smith,john@example.com,USA
+C002,Jane Doe,jane@example.com,UK
+C004,Alice Brown,alice@example.com,Australia

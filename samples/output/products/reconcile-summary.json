@@ -1,0 +1,11 @@
+{
+  "fileA": "C:\\LorikProject\\CSVReconciliation\\samples\\FolderA\\products.csv",
+  "fileB": "C:\\LorikProject\\CSVReconciliation\\samples\\FolderB\\products.csv",
+  "totalInA": 5,
+  "totalInB": 5,
+  "matched": 5,
+  "onlyInA": 0,
+  "onlyInB": 0,
+  "errors": 0,
+  "processingTimeMs": 2.1814
+}
